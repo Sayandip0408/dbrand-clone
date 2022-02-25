@@ -1,5 +1,5 @@
 # dbrand-clone
-This is a clone website design of dbrand.com
+This is a clone homepage design of dbrand.com
 
 Here is the website link:
 
